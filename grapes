@@ -1,0 +1,76 @@
+ <!DOCTYPE html>
+ <html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    – <meta name="description" content="description pour le
+    référencement"/> 
+    <title>Grapes</title>
+</head>
+<body>
+
+
+<h1 align="center" class="google"> WELCOME TO MY WEBSITE!!</h1>
+ <p align="center"> so here this a form you should complete it before we start</p>
+<br>
+<center>
+<form action="/action_page.php" method="POST">
+  <label for="first name"> FIRST NAME <input id="first name" type="text" > </label> <br>
+    LAST NAME<input type="text">	<br>
+    E-mail<input  type="email">	<br>
+    password<input name="Password" type="password" placeholder="password"> <br>
+    MALE <input type="radio"><br>
+    FEMALE<input type="radio"><br>
+    phone number <input type="number">
+
+
+<br>
+    SUBMIT<input type="submit">
+
+</form>
+
+</center>
+<a href="www.google.com" >       
+<img   src="/Users/macbook/Downloads/grapefruit-slice-332-332.jpg" height="200px" width="200px" align="right"  alt="Grapefruit slice atop a pile of other slices">
+</a>
+
+
+<div>
+<ul><li>list item</li>
+   <li>list item</li>
+   <li>list item</li>
+   <li>list item</li>
+   <li>list item</li>
+   <li>list item</li>
+</ul>
+<hr>
+
+   <table>
+
+<thead>
+<tr>
+<th>cellul i</td>
+<th>cellul j</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>4</td>
+</tr>
+<tr>
+<td>5
+    </td>
+    <td>6</td>
+</tr>
+</tbody>
+ </table>
+</div>
+
+</body>
+ </html>
